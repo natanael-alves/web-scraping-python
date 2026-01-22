@@ -40,6 +40,7 @@ Python 3
 . ReportLab – usado para criar o PDF
 
 📂 Estrutura do projeto
+
 webscraping/
 │
 ├── webscraping.py
@@ -50,6 +51,7 @@ webscraping/
 ▶️ Como executar o projeto
 
 1️⃣ Clone o repositório
+
 git clone https://github.com/natanael-alves/web-scraping-python.git
 
 2️⃣ Entre na pasta do projeto
