@@ -7,37 +7,37 @@ O programa acessa o site da Nike SNKRS, coleta os nomes dos tênis disponíveis 
 
 🎯 Objetivo do projeto
 
-Aprender como acessar páginas da internet com Python
+. Aprender como acessar páginas da internet com Python
 
-Entender como funciona o web scraping
+. Entender como funciona o web scraping
 
-Praticar listas, laços de repetição e bibliotecas externas
+. Praticar listas, laços de repetição e bibliotecas externas
 
-Gerar um arquivo PDF automaticamente
+. Gerar um arquivo PDF automaticamente
 
-Este projeto tem finalidade educacional.
+. Este projeto tem finalidade educacional.
 
 🧠 O que o código faz
 
-Acessa uma página da Nike
+. Acessa uma página da Nike
 
-Lê o conteúdo HTML da página
+. Lê o conteúdo HTML da página
 
-Procura os nomes dos tênis
+. Procura os nomes dos tênis
 
-Guarda os nomes em uma lista
+. Guarda os nomes em uma lista
 
-Cria um arquivo PDF com os tênis encontrados
+. Cria um arquivo PDF com os tênis encontrados
 
 🛠️ Tecnologias utilizadas
 
 Python 3 
 
-Requests – usado para acessar o site
+. Requests – usado para acessar o site
 
-BeautifulSoup (bs4) – usado para ler o HTML
+. BeautifulSoup (bs4) – usado para ler o HTML
 
-ReportLab – usado para criar o PDF
+. ReportLab – usado para criar o PDF
 
 📂 Estrutura do projeto
 webscraping/
