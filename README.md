@@ -39,7 +39,7 @@ Python 3
 
 . ReportLab – usado para criar o PDF
 
-  📂 Estrutura do projeto
+📂 Estrutura do projeto
 webscraping/
 │
 ├── webscraping.py
