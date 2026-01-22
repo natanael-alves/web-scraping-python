@@ -5,7 +5,7 @@ Este projeto foi desenvolvido com o objetivo de praticar Python, utilizando conc
 O programa acessa o site da Nike SNKRS, coleta os nomes dos tênis disponíveis no calendário e gera um arquivo PDF com essas informações.
 
 
-🎯 Objetivo do projeto
+  🎯 Objetivo do projeto
 
 . Aprender como acessar páginas da internet com Python
 
@@ -17,7 +17,7 @@ O programa acessa o site da Nike SNKRS, coleta os nomes dos tênis disponíveis 
 
 . Este projeto tem finalidade educacional.
 
-🧠 O que o código faz
+  🧠 O que o código faz
 
 . Acessa uma página da Nike
 
@@ -29,7 +29,7 @@ O programa acessa o site da Nike SNKRS, coleta os nomes dos tênis disponíveis 
 
 . Cria um arquivo PDF com os tênis encontrados
 
-🛠️ Tecnologias utilizadas
+  🛠️ Tecnologias utilizadas
 
 Python 3 
 
@@ -39,7 +39,7 @@ Python 3
 
 . ReportLab – usado para criar o PDF
 
-📂 Estrutura do projeto
+  📂 Estrutura do projeto
 webscraping/
 │
 ├── webscraping.py
@@ -84,14 +84,14 @@ Um título
 
 Uma lista com os nomes dos tênis disponíveis no site
 
-⚠️ Observação
+  ⚠️ Observação
 
 O site pode mudar sua estrutura HTML.
 Se isso acontecer, o código pode parar de funcionar, pois as classes usadas no scraping podem mudar.
 
 Esse projeto foi criado apenas para estudo e aprendizado.
 
-📚 Aprendizados
+  📚 Aprendizados
 
 . Com este projeto aprendi:
 
@@ -105,7 +105,7 @@ Esse projeto foi criado apenas para estudo e aprendizado.
 
 . Como organizar um projeto simples
 
-👨‍💻 Autor
+  👨‍💻 Autor
 
 Natanael Alves da Silva
 GitHub: https://github.com/natanael-alves
