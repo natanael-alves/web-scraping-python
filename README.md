@@ -34,7 +34,8 @@ webscraping/
 
 ---
 # ▶️ Como executar o projeto
-# Clonar o repositório
+
+Clonar o repositório
 
 git clone https://github.com/natanael-alves/web-scraping-python.git
 
@@ -86,6 +87,8 @@ Projeto desenvolvido apenas para fins educacionais.
 # 👨‍💻 Autor
 
 Natanael Alves da Silva
+
 GitHub: https://github.com/natanael-alves
+
 LinkedIn: https://www.linkedin.com/in/natanaelalves/
 
