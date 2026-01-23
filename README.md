@@ -30,6 +30,7 @@ webscraping/
 ├── tenis_disponiveis.pdf
 ├── venv/
 └── README.md
+
 ---
 # ▶️ Como executar o projeto
 # Clonar o repositório
@@ -79,7 +80,9 @@ Projeto desenvolvido apenas para fins educacionais.
 - Prática com Git e GitHub
 
   ---
+  
 # 👨‍💻 Autor
+
 Natanael Alves da Silva
 GitHub: https://github.com/natanael-alves
 LinkedIn: https://www.linkedin.com/in/natanaelalves/
