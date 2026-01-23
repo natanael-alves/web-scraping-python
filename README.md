@@ -24,6 +24,7 @@ Aprender conceitos básicos de Python, como:
 ---
 
 # 📂 Estrutura do projeto
+
 webscraping/
 │
 ├── webscraping.py
@@ -34,6 +35,7 @@ webscraping/
 ---
 # ▶️ Como executar o projeto
 # Clonar o repositório
+
 git clone https://github.com/natanael-alves/web-scraping-python.git
 
 ---
