@@ -25,11 +25,11 @@ Aprender conceitos básicos de Python, como:
 
 # ▶️ Como executar o projeto
 
-Clonar o repositório
-
+Clonar o repositório:
 git clone https://github.com/natanael-alves/web-scraping-python.git
 
 ---
+
 # Entrar na pasta
 cd web-scraping-python
 
