@@ -1,6 +1,6 @@
 # 📘 Projeto Web Scraping com Python
 
-## 🎯 Objetivo
+ 🎯 Objetivo
 Aprender conceitos básicos de Python, como:
 - Requisição de dados de um site
 - Leitura de HTML
