@@ -23,16 +23,6 @@ Aprender conceitos básicos de Python, como:
 - ReportLab
 ---
 
-# 📂 Estrutura do projeto
-
-webscraping/
-│
-├── webscraping.py
-├── tenis_disponiveis.pdf
-├── venv/
-└── README.md
-
----
 # ▶️ Como executar o projeto
 
 Clonar o repositório
